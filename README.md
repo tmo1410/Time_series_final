@@ -1,5 +1,10 @@
 # Time Series Forecasting: Hanoi Temperature Prediction
 
+Name: Nguyen Thanh Mo
+ID: 11230571
+Class: DSEB 65B
+Subject: Time Series
+
 ## Overview
 
 This project implements a comprehensive time series forecasting study comparing **STL Decomposition-based models** versus **End-to-End forecasting models** for daily temperature prediction in Hanoi. The research evaluates 6 different forecasting models across 3 prediction horizons (1, 3, and 7 days ahead).
