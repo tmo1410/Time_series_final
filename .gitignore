@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+
+# Python virtual environment
+env311/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Packaging / build artifacts
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+
+# Local environment files
+.env
+.env.*
+
+# Generated outputs
+outputs/
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+*.svg
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# JavaScript and JSON files
+*.js
+*.json
