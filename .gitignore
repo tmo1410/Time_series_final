@@ -28,14 +28,6 @@ htmlcov/
 .env
 .env.*
 
-# Generated outputs
-outputs/
-*.png
-*.jpg
-*.jpeg
-*.bmp
-*.gif
-*.svg
 
 # OS files
 .DS_Store
