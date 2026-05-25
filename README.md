@@ -1,8 +1,11 @@
 # Time Series Forecasting: Hanoi Temperature Prediction
 
 Name: Nguyen Thanh Mo
+
 ID: 11230571
+
 Class: DSEB 65B
+
 Subject: Time Series
 
 ## Overview
